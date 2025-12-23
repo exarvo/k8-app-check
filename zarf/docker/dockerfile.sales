@@ -25,7 +25,7 @@ CMD ["./sales"]
 LABEL org.opencontainers.image.created="${BUILD_DATE}" \
   org.opencontainers.image.title="sales-api" \
   org.opencontainers.image.authors="Sankarshana Hooli" \
-  org.opencontainers.image.source="https://github.com/ardanlabs/service/tree/master/a/services/sales" \
+  org.opencontainers.image.source="https://github.com/exarvo/k8-app-check/tree/master/a/services/sales" \
   org.opencontainers.image.revision="${BUILD_TAG}" \
   org.opencontainers.image.vendor="Sankarshana Hooli"
 
